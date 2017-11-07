@@ -1,4 +1,5 @@
 import React, { Component } from 'react'
+import './../styles/app.css'
 
 class App extends Component {
   constructor(props) {
@@ -8,7 +9,7 @@ class App extends Component {
   render() {
     return (
       <div>
-        <h1>Hello Webpack!</h1>
+        <h1 className="header">Hello Webpack!</h1>
       </div>
     );
   }
