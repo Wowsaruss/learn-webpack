@@ -8,7 +8,7 @@ Build bundle and watch for changes with HMR:
 
 ## Resources:
 
-Important files & directories in this repo for learning Webpack are:
+#### Important files & directories in this repo for learning Webpack are:
 - /build/*
 - /src/index.js (small mods at bottom of file for HMR)
 - .babelrc
