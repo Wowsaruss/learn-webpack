@@ -13,7 +13,7 @@ Important files & directories in this repo for learning Webpack are:
 - /src/index.js (small mods at bottom of file for HMR)
 - .babelrc
 - webpack.config.js
-- package.json (start script).
+- package.json (start script and dev-dependencies).
 
 Start in the Webpack documentation:
 https://webpack.js.org/concepts/
