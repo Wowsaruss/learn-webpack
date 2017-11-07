@@ -17,6 +17,7 @@ Important files & directories in this repo for learning Webpack are:
 
 #### Start in the Webpack documentation:
 https://webpack.js.org/concepts/
+https://webpack.js.org/guides/getting-started/
 
 #### Once you are comfortable with the various parts of the webpack.config.js, learn the basics of HMR:
 https://webpack.js.org/guides/hot-module-replacement/
@@ -26,3 +27,5 @@ https://github.com/gaearon/react-hot-loader
 https://github.com/webpack-contrib/style-loader
 https://github.com/webpack-contrib/css-loader
 https://github.com/babel/babel-loader
+
+>>> The best way to learn anything is to read the official documentation and then write your own code!
